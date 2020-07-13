@@ -1,6 +1,7 @@
 # srihet_music
 
-A new Flutter application.
+Ma première application Flutter.
+Il s'agit d'un lecteur de musique
 
 ## Getting Started
 
